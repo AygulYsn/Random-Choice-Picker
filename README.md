@@ -7,4 +7,4 @@
 * javascript 
 
 ## Live Page
-[Show Page](https://aygulysn.github.io/Random-Choice-Picker/)
+[Show Page](https://yasin-aygl.github.io/Random-Choice-Picker/)
